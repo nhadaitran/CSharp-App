@@ -1,0 +1,84 @@
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.exe.config
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.exe
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.pdb
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csprojAssemblyReference.cache
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.Form1.resources
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.Properties.Resources.resources
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.GenerateResource.cache
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.CoreCompileInputs.cache
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.exe
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.pdb
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.MainMenuGUI.resources
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.CategoryGUI.resources
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\bin\Debug\FontAwesome.Sharp.dll
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.CopyComplete
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.TableGUI.resources
+F:\Dell\Đồ án tin học\ProjectWithDesign\ProjectWithDesign\bin\Debug\Guna.UI2.dll
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csprojAssemblyReference.cache
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.Login.resources
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.CategoryGUI.resources
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.MainMenuGUI.resources
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.TableGUI.resources
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.Properties.Resources.resources
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.GenerateResource.cache
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.CoreCompileInputs.cache
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.exe
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.pdb
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.exe.config
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.exe
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.pdb
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\bin\Debug\FontAwesome.Sharp.dll
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.CopyComplete
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.BillGUI.resources
+F:\Dell\Đồ án tin học\new\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.AccountGUI.resources
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csprojAssemblyReference.cache
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.AccountGUI.resources
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.BillGUI.resources
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.Login.resources
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.CategoryGUI.resources
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.MainMenuGUI.resources
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.TableGUI.resources
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.Properties.Resources.resources
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.GenerateResource.cache
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.CoreCompileInputs.cache
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.exe
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.pdb
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.exe.config
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.exe
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.pdb
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\bin\Debug\FontAwesome.Sharp.dll
+F:\Dell\Đồ án tin học\new\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.CopyComplete
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.exe.config
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.exe
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.pdb
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.AccountGUI.resources
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.BillGUI.resources
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.Login.resources
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.CategoryGUI.resources
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.MainMenuGUI.resources
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.TableGUI.resources
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.Properties.Resources.resources
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.CopyComplete
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.exe
+C:\Users\DELL\Desktop\92%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.pdb
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.exe.config
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.exe
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\bin\Debug\ProjectWithDesign.pdb
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\bin\Debug\FontAwesome.Sharp.dll
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csprojAssemblyReference.cache
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.AccountGUI.resources
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.BillGUI.resources
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.Login.resources
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.CategoryGUI.resources
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.MainMenuGUI.resources
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.GUI.TableGUI.resources
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.Properties.Resources.resources
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.GenerateResource.cache
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.CoreCompileInputs.cache
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.csproj.CopyComplete
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.exe
+F:\Dell\Đồ án tin học\new\99%\99%\ProjectWithDesign\ProjectWithDesign\obj\Debug\ProjectWithDesign.pdb
